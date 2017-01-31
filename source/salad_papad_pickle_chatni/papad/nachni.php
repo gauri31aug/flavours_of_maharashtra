@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>udid</title>
+<title>nachni_papad</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="udid.jpg" />
-<figcaption>Udid Papad</figcaption>
+<img src="nachni.jpg" />
+<figcaption>Nachni papad</figcaption>
 <figcaption>2 pcs</figcaption>
 <figcaption>Rs.30</figcaption>
 </figure><br>
-<button name="item_name" value="udid">Add to Cart</button>
+<button name="item_name" value="nachni">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality of the Vidarbha region of Maharashtra. Vigna mungo flour mixed with water, black pepper powder and traditional salt and steamed to form a soft dough, later rolled flat into small round like rotis and dried in sun. Deep fried to form crunchy 'Uddache papad'. A healthy and traditional filler for veg dishes.
+<div id="descp">Speciality of the Vidarbha region of Maharashtra. Ragi flour mixed with water and traditional salt and steamed to form a soft dough, later rolled flat into small round like rotis and dried in sun. Deep fried to form crunchy 'Nachni papads'. A healthy and traditional filler for veg recipes.
 </div>
 </form>
 </body>

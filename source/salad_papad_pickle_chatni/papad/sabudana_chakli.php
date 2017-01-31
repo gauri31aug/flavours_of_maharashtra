@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>udid</title>
+<title>sabudana_chakli</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="udid.jpg" />
-<figcaption>Udid Papad</figcaption>
+<img src="sabudana_chakli.jpg" />
+<figcaption>Sabudana Chakli</figcaption>
 <figcaption>2 pcs</figcaption>
 <figcaption>Rs.30</figcaption>
 </figure><br>
-<button name="item_name" value="udid">Add to Cart</button>
+<button name="item_name" value="sabudana_chakli">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality of the Vidarbha region of Maharashtra. Vigna mungo flour mixed with water, black pepper powder and traditional salt and steamed to form a soft dough, later rolled flat into small round like rotis and dried in sun. Deep fried to form crunchy 'Uddache papad'. A healthy and traditional filler for veg dishes.
+<div id="descp">Pearls of sago soaked in water until soft; potatoes are boiled and added to the soft sago mixed together by adding salt, grinded green chillies and cumin seeds properly to form a dough. This dough is then dropped into pretzel or circular shapes to form 'chaklis'. Deep fried to form crunchy 'sabudana chaklis'. A very traditional and tasty recipe usually consumed during fasts.
 </div>
 </form>
 </body>

@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>udid</title>
+<title>batata_papad</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="udid.jpg" />
-<figcaption>Udid Papad</figcaption>
-<figcaption>2 pcs</figcaption>
+<img src="batata_papad.jpg" />
+<figcaption>Batata Papad</figcaption>
+<figcaption>1 plate</figcaption>
 <figcaption>Rs.30</figcaption>
 </figure><br>
-<button name="item_name" value="udid">Add to Cart</button>
+<button name="item_name" value="batata_papad">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality of the Vidarbha region of Maharashtra. Vigna mungo flour mixed with water, black pepper powder and traditional salt and steamed to form a soft dough, later rolled flat into small round like rotis and dried in sun. Deep fried to form crunchy 'Uddache papad'. A healthy and traditional filler for veg dishes.
+<div id="descp">Sliced potatoes boiled in water addded with salt and dried in sun. Deep fried to form crunchy 'potato papad'. Very tasty and healthy fillers for veg dishes.
 </div>
 </form>
 </body>
