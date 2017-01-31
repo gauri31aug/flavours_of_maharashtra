@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>batata_raita</title>
+<title>kakadi_tomato</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="batata_raita.jpg" />
-<figcaption>Batata Raita</figcaption>
+<img src="kakadi_tomato.jpg" />
+<figcaption>Tomato Kakadi Koshimbir</figcaption>
 <figcaption>1 bowl</figcaption>
 <figcaption>Rs.30</figcaption>
 </figure><br>
-<button name="item_name" value="batata_raita">Add to Cart</button>
+<button name="item_name" value="kakadi_tomato">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Boiled potatoes smashed and tempered with cumin and mustard seeds, green chillies, curry leaves, asafoetida, garnished with coriander leaves added with curd. Sugar and salt added for taste. Awesome combination with rice dishes!
+<div id="descp">Chopped cucumber and tomatoes added with curd and salt garnished with coriander leaves. Suitable with veg as well as non-veg dishes.
 </div>
 </form>
 </body>
