@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>gajar</title>
+<title>halad</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="gajar.jpg" />
-<figcaption>Gajar Loncha</figcaption>
+<img src="halad.jpg" />
+<figcaption>Halad Loncha</figcaption>
 <figcaption>1 tsp</figcaption>
 <figcaption>Rs.10</figcaption>
 </figure><br>
-<button name="item_name" value="gajar">Add to Cart</button>
+<button name="item_name" value="halad">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">A sweet and sour pickle made from carrots.
+<div id="descp">A bitter, spicy pickle made from fresh turmeric.
 </div>
 </form>
 </body>
