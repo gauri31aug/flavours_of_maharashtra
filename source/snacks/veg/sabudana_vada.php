@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>misal_paav</title>
+<title>sabudana_vada</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -74,19 +74,18 @@ $(document).ready(function(){
 <li><a href="../../../php/view_cart.php">View Cart: </a><div style="display:inline-block; color:white; font-family:century gothic; font-style:italic; width:40px; height:25px; background-color:#c5c52e;text-align:center"><?php echo $cart_count; ?></div></li>
 </ul>
 </nav>
-
 <br>
 <figure>
-<img src="misal_paav.jpg" />
-<figcaption>Misal Paav</figcaption>
-<figcaption>1 plate</figcaption>
+<img src="sabudana_vada.jpg" />
+<figcaption>Sabudana Vada</figcaption>
+<figcaption>2 pcs</figcaption>
 <figcaption>Rs.30</figcaption>
 </figure><br>
-<button name="item_name" value="misal_paav">Add to Cart</button>
+<button name="item_name" value="sabudana_vada">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality from Kolhapur. This is made from a mix of curried sprouted lentils, topped with boiled potatoes, kande pohe (dish made of flattened rice), chivda (dish made of flattened rice), farsaan (a mixture of different types of 'shevs' made from gram flour, corn flour, gram peas), raw chopped onions and tomatoes garnished with coriander leaves. It is also sometimes eaten with yogurt. Usually, the misal is served with a wheat bread bun (paav).
+<div id="descp">A deep fried snack based on sabudana (pearls of sago palm) and boiled potato smash. Salt, sugar and lemon juice added for flavouring, green chillies for spiciness and grated groundnut garnished with coriander leaves. It is often served with spicy green chutney or sweet curd or hot tea also makes a good combination and  is best eaten fresh.
 </div>
 </form>
 </body>

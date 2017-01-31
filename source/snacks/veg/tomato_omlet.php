@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>misal_paav</title>
+<title>tomato_omlet</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="misal_paav.jpg" />
-<figcaption>Misal Paav</figcaption>
-<figcaption>1 plate</figcaption>
-<figcaption>Rs.30</figcaption>
+<img src="tomato_omlet.jpg" />
+<figcaption>Tomato Omlet</figcaption>
+<figcaption>2 pcs</figcaption>
+<figcaption>Rs.60</figcaption>
 </figure><br>
-<button name="item_name" value="misal_paav">Add to Cart</button>
+<button name="item_name" value="tomato_omlet">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality from Kolhapur. This is made from a mix of curried sprouted lentils, topped with boiled potatoes, kande pohe (dish made of flattened rice), chivda (dish made of flattened rice), farsaan (a mixture of different types of 'shevs' made from gram flour, corn flour, gram peas), raw chopped onions and tomatoes garnished with coriander leaves. It is also sometimes eaten with yogurt. Usually, the misal is served with a wheat bread bun (paav).
+<div id="descp">Tasty breakfast dish. It is calles as an omelette because of its visual appearance, but actually contains no egg product or by-product. The main ingredient is chickpea flour or besan mixed with finely chopped green chillies, onions, tomatoes, cumin powder, turmeric and coriander. Tomato omelettes are served hot with tomato sauce, coconut chutney, sambar or any other pickle.
 </div>
 </form>
 </body>

@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>misal_paav</title>
+<title>paav_bhaji</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="misal_paav.jpg" />
-<figcaption>Misal Paav</figcaption>
+<img src="paav_bhaji.jpg" />
+<figcaption>Paav Bhaji</figcaption>
 <figcaption>1 plate</figcaption>
-<figcaption>Rs.30</figcaption>
+<figcaption>Rs.50</figcaption>
 </figure><br>
-<button name="item_name" value="misal_paav">Add to Cart</button>
+<button name="item_name" value="paav_bhaji">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality from Kolhapur. This is made from a mix of curried sprouted lentils, topped with boiled potatoes, kande pohe (dish made of flattened rice), chivda (dish made of flattened rice), farsaan (a mixture of different types of 'shevs' made from gram flour, corn flour, gram peas), raw chopped onions and tomatoes garnished with coriander leaves. It is also sometimes eaten with yogurt. Usually, the misal is served with a wheat bread bun (paav).
+<div id="descp">Yummy and a healthy maharashtrian fast food dish consisting of a vegetable curry prepared from veggies like cauliflower, green peas, capsicum, potatoes, onions and tomatoes, flavoured with various spices; butter adds in the taste; topped with raw chopped onions, coriander leaves and lemon juice. Served with a soft bread roll (pav) roasted with butter.
 </div>
 </form>
 </body>

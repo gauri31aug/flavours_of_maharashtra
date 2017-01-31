@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>misal_paav</title>
+<title>sabudana_khichadi</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="misal_paav.jpg" />
-<figcaption>Misal Paav</figcaption>
+<img src="sabudana_khichadi.jpg" />
+<figcaption>Sabudana Khichadi</figcaption>
 <figcaption>1 plate</figcaption>
 <figcaption>Rs.30</figcaption>
 </figure><br>
-<button name="item_name" value="misal_paav">Add to Cart</button>
+<button name="item_name" value="sabudana_khichadi">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Speciality from Kolhapur. This is made from a mix of curried sprouted lentils, topped with boiled potatoes, kande pohe (dish made of flattened rice), chivda (dish made of flattened rice), farsaan (a mixture of different types of 'shevs' made from gram flour, corn flour, gram peas), raw chopped onions and tomatoes garnished with coriander leaves. It is also sometimes eaten with yogurt. Usually, the misal is served with a wheat bread bun (paav).
+<div id="descp">Sautéed sabudana (pearls of sago palm), a dish commonly eaten on days of religious fasting. Flavoured with cumin seeds and green chillies, grated groundnut added to avoid stickiness and garnished with coriander leaves.
 </div>
 </form>
 </body>
