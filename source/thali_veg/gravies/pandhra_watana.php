@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>chana</title>
+<title>pandhra_watana</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -58,7 +58,7 @@ $(document).ready(function(){
     <li><a href="../../../thali_veg.php">Veg</a></li><br>
 	<li><a href="../../../thali_non_veg.php">Non-Veg</a></li><br>
 	<li><a href="../../../breads.php">Breads</a></li><br>
-	<li><a href="../../../salad_papad_pickle_chatni.php">Salads/Papads/Pickles/Chatni</a></li>
+	<li><a href="../../../salad_papad_pickle_chatni.php">Salads/Papads/Pickles_Chatni</a></li>
   </ul>
 </li>
 <li><a href="../../../beverages.php">Beverages</a></li>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="chana.jpg" />
-<figcaption>Chanyachi Usal</figcaption>
+<img src="pandhra_watana.jpg" />
+<figcaption>Pandharya Watanyachi Usal</figcaption>
 <figcaption>1 bowl</figcaption>
 <figcaption>Rs.35</figcaption>
 </figure><br>
-<button name="item_name" value="chana">Add to Cart</button>
+<button name="item_name" value="pandhra_watana">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Dry grated coconut, onions, traditional spices, coriander, ginger, garlic grinded together to make a spicy gravy tempered with curry leaves, cumin and mustard seeds. Sprouted bengal gram added as main stuff. A healthy and tasty recipe.
+<div id="descp">Dry grated coconut, onions, traditional spices, coriander, ginger, garlic grinded together to make a spicy gravy tempered with curry leaves, cumin and mustard seeds. Sprouted white peas added as main stuff. A healthy and tasty recipe.
 </div>
 </form>
 </body>
