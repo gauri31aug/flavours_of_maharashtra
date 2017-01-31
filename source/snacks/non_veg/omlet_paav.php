@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>half_fry</title>
+<title>omlet_paav</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,17 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="half_fry.jpg" />
-<figcaption>Egg Half Fry</figcaption>
+<img src="omlet_paav.jpg" />
+<figcaption>Omlet Paav</figcaption>
 <figcaption>1 plate</figcaption>
 <figcaption>Rs.50</figcaption>
 </figure><br>
-<button name="item_name" value="half_fry">Add to Cart</button>
+<button name="item_name" value="omlet_paav">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">A simple and Indian way of having eggs for breakfast. An egg is roasted on one side without scrambling (directly unshelled and poured on pan). Added with salt and pepper or chilli powder. Enjoyed with toast or chapati or bread.
+<div id="descp">Egg omlet added with chopped onions green chillies coriander leaves and salt. Tastes best with bread/paav when hot.
 </div>
+</form>
 </body>
 </html>
