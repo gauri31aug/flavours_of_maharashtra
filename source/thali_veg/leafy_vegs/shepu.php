@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <html>
 <head>
-<title>alu</title>
+<title>shepu</title>
 <link rel="stylesheet" href="../../../menu_item.css" type="text/css">
 <script src="../../../Scripts/jquery-1.7.1.js"></script>
 <script>
@@ -77,16 +77,16 @@ $(document).ready(function(){
 
 <br>
 <figure>
-<img src="alu.jpg" />
-<figcaption>Aluchi Pattal Bhaji</figcaption>
+<img src="shepu.jpg" />
+<figcaption>Shepu</figcaption>
 <figcaption>1 bowl</figcaption>
 <figcaption>Rs.35</figcaption>
 </figure><br>
-<button name="item_name" value="alu">Add to Cart</button>
+<button name="item_name" value="shepu">Add to Cart</button>
 <br><br>
 <div id="show_descp">What's this?</div>
 <div id="hide_descp">Hide</div>
-<div id="descp">Finely chopped Colocasia leaves mixed with gram flour, tamarind, jaggery, salt, green chillies/red chilli powder, ginger-garlic paste and peanuts cooked with water till it becomes a soft gravy. Has a sweet, sour, spicy, tangy flavour. A healthy and tasty recipe.
+<div id="descp">Finely chopped dill leaves cooked by adding garlic, green chillies, salt and garnished with soaked coverless green gram. A healthy and tasty recipe.
 </div>
 </form>
 </body>
