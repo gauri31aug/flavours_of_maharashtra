@@ -1,0 +1,115 @@
+figure, img, div, br
+{
+display:block;
+}
+
+body 
+{     
+background-color:ivory;
+padding:20px;
+}    
+
+.label
+{
+padding-top:30px;
+height:50px;
+width:1000px;
+font-family:century gothic;
+font-size:25px;
+font-weight:bold;
+color:darkgreen;
+}
+
+figure
+{
+height:170px;
+width:170px;
+float:left;
+}
+
+img
+{
+height:150px;
+width:150px;
+float:left;
+}
+
+img:hover
+{
+box-shadow:5px 5px 10px #5eb53c;
+}
+
+figcaption
+{
+width:150px;
+font-family:century gothic;
+color:darkgreen;
+font-size:15px;
+text-align:center;
+}
+
+.dropdown 
+{
+cursor:pointer;
+position:relative;
+display:inline-block;
+}
+
+.dropdown-content 
+{
+display:none;
+position:absolute;
+background-color:#689c53;
+box-shadow:0px 8px 16px 0px #5eb53c;
+padding:12px 16px;
+opacity:0.8;
+}
+
+.dropdown:hover .dropdown-content 
+{
+display:block;
+}
+
+a:link
+{
+text-decoration:none;
+}
+
+nav
+{   
+border:1px solid darkgreen;   
+clear:both;        
+background-color:#5eb53c;     
+height:60%;
+}    
+
+nav ul
+{
+padding-top:2px;
+}
+
+nav li 
+{     
+display:inline;     
+margin-right:30px;
+}    
+  
+.dropdown, .dropdown-content, nav li a
+{
+color:white;
+font-family:century gothic;
+font-size:20px;
+transition:padding 0.1s;
+}
+
+nav li a:hover 
+{    
+padding:5px 5px 5px 5px;
+background-color:#689c53; 
+opacity:0.8;
+}
+
+nav
+{  
+display: block;
+}
